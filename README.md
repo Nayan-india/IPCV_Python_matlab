@@ -1,7 +1,7 @@
 # IPCV_Python_Matlab
 This repo has Python code demonstrating Image processing and computer vision.</br>
-In this matplotlib library is used to plot images, which are basically matrix repersenting color pixel values for every single bit of image.</br>
-Numpy library is used to genetrate and manipulate the matrix in python.
+In this, matplotlib library is used to plot images, which are basically matrix repersenting color pixel values for every single bit of image.</br>
+Numpy library is used to generate and manipulate the matrix in python.
 -----------
 ### Mentor
 
